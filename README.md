@@ -1,4 +1,4 @@
-# Movie World
+# Movie World 🎬
 
 ## About the Project
 
